@@ -1,0 +1,9 @@
+commit 24b1bf0e47f01df962a0156dcd061374310f7f75
+Author: sam <sambracleycherilus@Sams-MBP.lan>
+Date:   Sat Nov 25 20:55:02 2023 -0500
+
+    This is the second file
+
+diff --git a/c.txt b/c.txt
+new file mode 100644
+index 0000000..e69de29

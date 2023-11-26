@@ -7,5 +7,3 @@ Date:   Sat Nov 25 20:55:02 2023 -0500
 diff --git a/c.txt b/c.txt
 new file mode 100644
 index 0000000..e69de29
-Fabrice
-Line added by Sam.
